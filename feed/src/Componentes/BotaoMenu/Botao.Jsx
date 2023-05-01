@@ -9,4 +9,4 @@ function BotaoMenu(props){
   )
 }
 
-export default BotaoMenu;
+export default Botao;
